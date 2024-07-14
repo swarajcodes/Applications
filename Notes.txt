@@ -48,7 +48,7 @@ build.gradle compile sdk
              min sdk required
              current application level
 
-             application id- com.
+             application id- com.swaraj.testapp7
 
              dependencies- all imported libraries
 
@@ -74,3 +74,15 @@ medium article - https://medium.com/@mohammadjoumani/life-cycle-in-jetpack-compo
 
 
 setContent() - decides actual content to the activity/view
+
+enableedgetoedge ignores safe area
+
+
+
+Today's Assignment
+- Read Docs about History of Jetpack Compose.
+- Implement App lifecycles methods and prepare a note on it.
+- Build Your application on both emulator and physical device. Implement all the modifiers of Text. Push your codes to git and include screenshots
+
+try out this and add screenshots to readme file.
+https://developer.android.com/develop/ui/compose/text/style-text
